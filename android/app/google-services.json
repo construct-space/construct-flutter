@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288494692734",
+    "project_id": "construct-space",
+    "storage_bucket": "construct-space.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288494692734:android:d9df52cd155a4befd36b2f",
+        "android_client_info": {
+          "package_name": "space.construct.android.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9kP8xZwiM1WVZgKImSgzsmUNWNKjx8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288494692734:android:17607f988c8b3e39d36b2f",
+        "android_client_info": {
+          "package_name": "space.construct.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9kP8xZwiM1WVZgKImSgzsmUNWNKjx8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
